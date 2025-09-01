@@ -58,8 +58,9 @@ Core logic resides in:
 - `Inventry.ipynb`: experimentation and prototyping  
 
 ---
+## Flow Diagrams
 
-##  Flowchart
+### 1. Workflow (Step-by-Step)
 
 ```mermaid
 flowchart TD
@@ -70,12 +71,9 @@ flowchart TD
     E --> F[Format Results]
     F --> G[Display Answer in Streamlit UI]
 
-## Screenshots
 
-Streamlit interface preview:
-![Streamlit UI](StreamLit_UI.png)
+```
 
----
 
 ## Getting Started
 
