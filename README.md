@@ -1,6 +1,3 @@
-
-
-````markdown
 # Inventry-Manager
 
 A modern **Inventory Management Bot** powered by **LLMs** and **LangChain**, connected to an SQL database. Leveraging natural language, this system dynamically generates SQL queries to retrieve inventory insights and answers. Built with Python and Streamlit for a seamless developer experience.
@@ -72,9 +69,6 @@ flowchart TD
     D --> E[Fetch Inventory Data]
     E --> F[Format Results]
     F --> G[Display Answer in Streamlit UI]
-````
-
----
 
 ## Screenshots
 
