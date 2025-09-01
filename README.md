@@ -147,19 +147,12 @@ This project is open-sourced under the **MIT License**.
 
 ## Contact
 
-**Author**: Atharv M.
+**Author**: Atharv Mishra.
+
 **GitHub**: [Atharv-M](https://github.com/Atharv-M)
+
 Feel free to reach out for collaboration, feedback, or hiring discussions!
 
 ---
 
 Thank you for checking out **Inventry-Manager**—where natural language meets real-time inventory intelligence.
-
-```
-
----
-
-⚡ This **Mermaid flowchart** will render directly on GitHub, showing a **step-by-step data flow** of your model.  
-
-Do you want me to also add a **system architecture diagram (with UI, LLM, SQL DB as components)** in addition to this flowchart? That would make it even more recruiter-friendly.
-```
