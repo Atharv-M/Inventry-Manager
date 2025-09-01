@@ -1,8 +1,4 @@
-Got it ✅ A **flowchart / diagram** in your README will make the project stand out to recruiters and developers. Since GitHub READMEs can’t render native diagrams directly, we can use **Mermaid.js diagrams** (supported in GitHub Markdown).
 
-Here’s the updated **README.md** content with a **flowchart** added in the *Architecture* section:
-
----
 
 ````markdown
 # Inventry-Manager
